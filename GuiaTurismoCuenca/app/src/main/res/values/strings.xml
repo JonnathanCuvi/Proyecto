@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuiaTurismoCuenca</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lugares">lugares</string>
+    <string name="title_activity_guia_por_cuenca">GuiaPorCuenca</string>
+    <string name="title_activity_mapa_android">Map</string>
+    <string name="title_activity_informacion">informacion</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_mapa_atractivos">Map</string>
+    <string name="title_activity_mapa_restaurantes">Map</string>
+    <string name="title_activity_mapa_emergencias">Map</string>
+</resources>
